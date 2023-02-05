@@ -9,7 +9,7 @@ For development, you will only need Node.js and a node global package, Yarn, ins
 
 ## Install
 
-    $ git clone https://github.com/adwait2001/Multicall
+    $ git clone https://github.com/adwait2001/Multicall.git
     $ npm install
  
 ## First we will check the price oF pairs of token using uniswap V2
