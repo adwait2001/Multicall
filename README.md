@@ -29,4 +29,4 @@ For development, you will only need Node.js and a node global package, Yarn, ins
 
 ## Demo Video Link for the application
     
-    https://drive.google.com/file/d/1T4WjYdlqciD-_eMownAEQ1twcY9Raffm/view?usp=sharing
+    [Drive link](https://drive.google.com/file/d/1T4WjYdlqciD-_eMownAEQ1twcY9Raffm/view?usp=sharing)
